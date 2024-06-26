@@ -34,6 +34,7 @@
   * Bytevirt（含冷门地区）:  [https://dl.1vps.top/bytevirt](https://dl.1vps.top/bytevirt)
   * Wap.cc（含冷门地区）: [https://dl.1vps.top/wapac](https://dl.1vps.top/wapac)
   * Casbay: [https://dl.1vps.top/casbay](https://dl.1vps.top/casbay)
+  * 更多VPS集合：[https://www.nodeloc.com/vps](https://www.nodeloc.com/vps)
 * 域名：
   * Namesilo: [https://dl.1vps.top/namedomain](https://dl.1vps.top/namedomain)
   * Spaceship: [https://www.spaceship.com/](https://www.spaceship.com/)
