@@ -15,8 +15,8 @@
     
     * IKUN坤场（目前每月可白嫖，便宜备用）[https://dl.1vps.top/ikun](https://dl.1vps.top/ikun)
 * 云主机(新手，外贸建站推荐)：
-  * cloudways: https://dl.1vps.top/cloudways
-  * siteground: https://dl.1vps.top/siteground
+  * cloudways:  [https://dl.1vps.top/cloudways](https://dl.1vps.top/cloudways)
+  * siteground:  [https://dl.1vps.top/siteground](https://dl.1vps.top/siteground)
 * VPS：
   * BWG（搬瓦工）： [https://dl.1vps.top/bwg](https://dl.1vps.top/bwg)
   * DMIT（大妈）：[https://dl.1vps.top/dmit](https://dl.1vps.top/dmit)
@@ -37,23 +37,21 @@
   * Namesilo: [https://dl.1vps.top/namedomain](https://dl.1vps.top/namedomain)
   * Spaceship: [https://www.spaceship.com/](https://www.spaceship.com/)
 * 其他推荐：
-  * USAPPID: https://dl.1vps.top/usid
-  * IOS小火箭：[https://dl.1vps.top/xiaohuojian](https://dl.1vps.top/xiaohuojian)
-  * ChatGPT Pluy/MJ: [https://dl.1vps.top/yinhe](https://dl.1vps.top/yinhe)
-  * 来发信：https://dl.1vps.top/laifaxin
-  * SMS接码平台：https://dl.1vps.top/sms
+  * ChatGPT Plus/MJ: [https://dl.1vps.top/yinhe](https://dl.1vps.top/yinhe)
+  * 来发信： [https://dl.1vps.top/laifaxin](https://dl.1vps.top/laifaxin)
+  * SMS接码平台： [https://dl.1vps.top/sms](https://dl.1vps.top/sms)
   * Iproyal（住宅IP）：[https://dl.1vps.top/ip](https://dl.1vps.top/ip)
   * Hubstudio指纹浏览器：[http://suo.im/cu6NY](http://suo.im/cu6NY)
-  * Depay: http://psce.pw/depay1
-  * Pictory: https://pse.is/pictory
+  * Depay：[https://dl.1vps.top/depay](https://dl.1vps.top/depay)
   * 5ber（ESIM卡，邀请码 303TMW）：[https://esim.5ber.com/](https://esim.5ber.com/)
 * 梯子工具推荐
   * 苹果（推荐成品号，自带美区ID）
     
-    * 【Shadowrocket】- $2.99，成品号： [http://psce.pw/4wf2lf](http://psce.pw/4wf2lf) (推荐)
-    * 【Quantumult X 】- $7.99，成品号： [http://psce.pw/4tnxyj](http://psce.pw/4tnxyj)
+    * US APPID（空白ID，不含任何梯子工具）:  [https://dl.1vps.top/usid](https://dl.1vps.top/usid)
+    * 【Shadowrocket/小火箭】- $2.99，成品号： [https://dl.1vps.top/xiaohuojian](https://dl.1vps.top/xiaohuojian) (推荐)
+    * 【Quantumult X/QX】- $7.99，成品号： [https://dl.1vps.top/qx](https://dl.1vps.top/qx)
     * 【Loon】- $4.99 中等 [https://apps.apple.com/us/app/loon/id1373567447](https://apps.apple.com/us/app/loon/id1373567447)
-    * 【Stash】- $3.99 ISO端CLASH [https://apps.apple.com/us/app/stash-proxy-utility/id1596063349](https://apps.apple.com/us/app/stash-proxy-utility/id1596063349%EF%BC%8C%E6%88%90%E5%93%81%E5%8F%B7%EF%BC%9Ahttps://psee.io/5bxdm3) ， 成品号：[https://psee.io/5bxdm3](https://apps.apple.com/us/app/stash-proxy-utility/id1596063349%EF%BC%8C%E6%88%90%E5%93%81%E5%8F%B7%EF%BC%9Ahttps://psee.io/5bxdm3)
+    * 【Stash】- $3.99 ISO端CLASH, 成品号：[https://dl.1vps.top/stash](https://dl.1vps.top/stash)
     * 【Choc】- $2.99 ISO端CLASH [https://apps.apple.com/us/app/choc/id1582542227](https://apps.apple.com/us/app/choc/id1582542227)
     * 【Hiddify-Next】: [https://github.com/hiddify/hiddify-next/releases](https://github.com/hiddify/hiddify-next/)
   * 安卓
@@ -61,17 +59,17 @@
     * 【V2RayNG】[https://github.com/2dust/v2rayNG/releases](https://github.com/2dust/v2rayNG/releases)
     * 【NekoBox】[https://github.com/MatsuriDayo/NekoBoxForAndroid/releases](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
     * 【Clash.Meta】[https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/Prerelease-alpha](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/Prerelease-alpha)
+    * 【FlClash】: [https://github.com/chen08209/FlClash](https://github.com/chen08209/FlClash)
     * 【Surfboard】[https://github.com/getsurfboard/surfboard/releases](https://github.com/getsurfboard/surfboard/releases)
     * 【Hiddify-Next】: [https://github.com/hiddify/hiddify-next/releases](https://github.com/hiddify/hiddify-next/)
-    * 【FlClash】: [https://github.com/chen08209/FlClash](https://github.com/chen08209/FlClash)
     * 【Husi】:[https://github.com/xchacha20-poly1305/husi/releases](https://github.com/xchacha20-poly1305/husi/releases)
   * WIN
     
     * 【V2RayN】[https://github.com/2dust/v2rayN/releases](https://github.com/2dust/v2rayN/releases)
     * 【Clash Verge】[https://github.com/clash-verge-rev/clash-verge-rev/releases](https://github.com/zzzgydi/clash-verge/releases)
+    * 【FlClash】: [https://github.com/chen08209/FlClash](https://github.com/chen08209/FlClash)
     * 【Nekoray】[https://github.com/MatsuriDayo/nekora](https://github.com/MatsuriDayo/nekoray)y
     * 【Hiddify-Next】: [https://github.com/hiddify/hiddify-next/releases](https://github.com/hiddify/hiddify-next/)
-    * 【FlClash】: [https://github.com/chen08209/FlClash](https://github.com/chen08209/FlClash)
     * 【Netch】[https://github.com/netchx/netch/releases](https://github.com/netchx/netch/releases) (游戏用）
     * 【SStap】[https://github.com/githello123/sstap](https://github.com/githello123/sstap) (游戏用)
   * MAC
@@ -94,9 +92,12 @@
     * WhatsApp Business 安卓
       
       * https://whatsapp-business.en.softonic.com/android
-      * https://apkpure.com/whatsapp-business/com.whatsapp.w4b
       * https://whatsapp-business.en.uptodown.com/android/download
-    * WhatsApp Windows (win端目前貌似只能网页版或者微软商店)
+    * WhatsApp Windows (推荐网页版)
       
-      * [https://www.techspot.com/downloads/6839-whatsapp-desktop.html](https://www.techspot.com/downloads/6839-whatsapp-desktop.html)
-      * [https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe](https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe)
+      * 网页版：[https://web.whatsapp.com/](https://web.whatsapp.com/)
+    * WhatsApp IOS
+      
+      * 推荐美区ID下载：
+        * 美区ID注册教程：[https://moreopen.cc/1786.html](https://moreopen.cc/1786.html)
+        * 购买成品美区ID空白号（不建议）：[https://dl.1vps.top/usid](https://dl.1vps.top/usid)
