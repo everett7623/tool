@@ -5,9 +5,9 @@
     * FASTLINK（性价比高，多国，BGP，IPLC，Anycast，含冷门，游戏专线，稳定多年）[https://dl.1vps.top/fastlink](https://dl.1vps.top/fastlink)
     * Facmata（性价比高，多国含冷门，主流流媒体解锁，送Emby）[https://dl.1vps.top/fac](https://dl.1vps.top/fac)
     * Sakuracat（性价比高，多国含冷门，游戏节点，多国购物节点）[https://dl.1vps.top/sakura](https://dl.1vps.top/sakura)
-    * 私房菜（性价比高，IEPL/IPLC，主流流媒体解锁，送Emby）[https://dl.1vps.top/kogeki](https://dl.1vps.top/kogeki)
     * 冲浪猫（性价比高，多国，IEPL）[https://dl.1vps.top/clmd](https://dl.1vps.top/clmd)
     * 喵喵机场（港日韩台新美，IEPL，主流流媒体解锁）[https://dl.1vps.top/miao](https://dl.1vps.top/miao)
+    * Nekov（性价比高，月4元50G）[https://dl.1vps.top/nekov](https://dl.1vps.top/nekov)
       
   * 其他推荐：
     * 魔戒（流量用户选择，多国，冷门）[https://dl.1vps.top/mojie](https://dl.1vps.top/mojie)
