@@ -21,6 +21,7 @@
 * VPS：
   * BWG（搬瓦工）： [https://dl.1vps.top/bwg](https://dl.1vps.top/bwg)
   * DMIT（大妈）：[https://dl.1vps.top/dmit](https://dl.1vps.top/dmit)
+  * Vmiss (加拿大华人商家，机器线路都不错，老板好): [https://dl.1vps.top/vmiss](https://dl.1vps.top/vmiss)
   * Faconhost（新商家，延迟稳定性不错）: [https://dl.1vps.top/facon](https://dl.1vps.top/facon)
   * BageVM（流媒体解锁好）:  [https://dl.1vps.top/bagevm](https://dl.1vps.top/bagevm)
   * Zgo（流媒体解锁好）: [https://dl.1vps.top/zgo](https://dl.1vps.top/zgo)
