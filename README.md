@@ -1,5 +1,7 @@
 推荐一些自己用过的vps，以及常用的梯子等等。
 
+推荐一些自己用过的vps，以及常用的梯子等等。
+
 * **梯子推荐**
 
   * 性价比推荐：
@@ -43,7 +45,8 @@
   * 英国电话卡：https://s.y8o.de/freesim
   * Iproyal（住宅IP）：https://s.y8o.de/ip
   * Hubstudio指纹浏览器：http://suo.im/cu6NY 邀请码：Wnyjc89b
-  * Pokepay(美元虚拟卡实体卡)：[https://s.y8o.de/depay](https://s.y8o.de/pokepay)  
+  * Pokepay(美元虚拟卡、实体卡)：https://s.y8o.de/depay
+  * Bybit(美元虚拟卡、实体卡、虚拟币)：https://s.y8o.de/bybit
 
 * **梯子工具推荐**
 
