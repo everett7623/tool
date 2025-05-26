@@ -10,6 +10,8 @@
   * 其他推荐：
     * 魔戒（流量用户选择，不限时，性价比高，多国，含冷门国家）https://s.y8o.de/mojie
 
+* **梯子工具，请[点击查看](https://github.com/everett7623/tool/blob/main/tizi%20tool.md)**
+
 * **云主机(新手，外贸建站推荐)：**
   * Cloudways: https://s.y8o.de/cloudways
   * Siteground: https://s.y8o.de/siteground
