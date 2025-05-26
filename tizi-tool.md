@@ -74,5 +74,5 @@
 | **FlClash** | 基于 ClashMeta（Mihomo）核心的多平台代理客户端，采用 Material You 设计，简单易用。 | Shadowsocks、VMess、Trojan、VLESS、Clash | [GitHub Releases](https://github.com/chen08209/FlClash/releases) | ✅ |
 | **Mihomo Party** | 基于 Mihomo (Clash Meta) 内核的 GUI 客户端，界面简洁，支持全面的代理协议和强大的路由功能。 | Shadowsocks、V2Ray、Trojan、Clash、Hysteria | [GitHub Releases](https://github.com/mihomo-party-org/mihomo-party/releases) | ✅ |
 | **Sing-Box** | 网络代理平台的"瑞士军刀"，提供丰富的协议支持和灵活的配置选项。 | Shadowsocks、V2Ray、Trojan、Snell、Hysteria | [GitHub Releases](https://github.com/SagerNet/sing-box/releases) | ✅ |
-| **Clash Verge** | 高效的桌面应用程序，专为管理和增强 Clash 配置文件而设计。 | Shadowsocks、V2Ray、Trojan、Clash、Hysteria | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) | ✅ |
+| **Clash Verge Rev** | 高效的桌面应用程序，专为管理和增强 Clash 配置文件而设计。 | Shadowsocks、V2Ray、Trojan、Clash、Hysteria | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) | ✅ |
 | **Hiddify** | 基于 sing-box 开发的多平台自动代理客户端，支持多种协议，开源且无广告。 | VLESS、VMess、Trojan、Shadowsocks、Reality、Hysteria2、TUIC、SSH、ShadowTLS | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) | ✅ |
