@@ -48,40 +48,6 @@
   * Pokepay(美元虚拟卡、实体卡)：https://s.y8o.de/depay
   * Bybit(美元虚拟卡、实体卡、虚拟币)：https://s.y8o.de/bybit
 
-* **梯子工具推荐**
-
-  * 苹果（推荐成品号，自带美区ID） 
-    * US APPID（空白ID，不含任何梯子工具）: https://s.y8o.de/usid， 自己注册美区ID：https://seedloc.com/1786.html
-    * 【Shadowrocket/小火箭】- $2.99，成品号： https://s.y8o.de/xiaohuojian (推荐)
-    * 【Quantumult X/QX】- $7.99，成品号： https://s.y8o.de/qx
-    * 【Loon】- $4.99 中等 https://apps.apple.com/us/app/loon/id1373567447
-    * 【Stash】- $3.99 ISO端CLASH, 成品号：https://s.y8o.de/stash
-    * 【Choc】- $2.99 ISO端CLASH： https://apps.apple.com/us/app/choc/id1582542227
-
-  * 安卓
-    * 【NekoBox】https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
-    * 【FlClash】https://github.com/chen08209/FlClash
-    * 【V2RayNG】https://github.com/2dust/v2rayNG/releases
-    * 【Clash.Meta】https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/Prerelease-alpha
-    * 【Surfboard】https://github.com/getsurfboard/surfboard/releases
-    * 【Husi】https://github.com/xchacha20-poly1305/husi/releases
-
-  * WIN
-    * 【V2RayN】https://github.com/2dust/v2rayN/releases
-    * 【Clash Verge Rev】https://github.com/clash-verge-rev/clash-verge-rev
-    * 【FlClash】https://github.com/chen08209/FlClash
-    * 【Netch】https://github.com/netchx/netch/releases (游戏用）
-    * 【SStap】https://github.com/githello123/sstap (游戏用)
-
-  * MAC
-    * 【FlClash】https://github.com/chen08209/FlClash
-    * 【Hiddify】https://github.com/hiddify/hiddify-app
-    * 【Surge for Mac($49.99)】http://nssurge.com/
-    * 【Stash($48 终身)】: https://stash.ws
-
-  * 通用
-    * 【Sing-box】https://sing-box.sagernet.org/zh/clients
-
 * **社媒工具下载**
   * Whatsapp
     * WhatsApp 安卓
