@@ -46,9 +46,9 @@
 
 | 应用名称 | 简介 | 支持协议 | 下载地址 | 推荐应用 |
 |---------|------|----------|----------|----------|
-| **Shadowrocket** | iOS 平台上广受欢迎的代理客户端，支持复杂的规则配置。 | Shadowsocks、V2Ray、Trojan | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) | ✅ |
-| **Quantumult X** | 功能全面的网络工具，支持多种代理协议和数据分析，适合高级用户。 | Shadowsocks、V2Ray、Trojan | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) | ✅ |
-| **Stash** | 支持 Clash 内核的客户端软件，提供规则管理和多协议支持。 | Shadowsocks、V2Ray、Trojan、Clash、Hysteria | [App Store](https://apps.apple.com/us/app/stash/id1596063349) | ✅ |
+| **Shadowrocket** | iOS 平台上广受欢迎的代理客户端，支持复杂的规则配置。 | Shadowsocks、V2Ray、Trojan | [购买链接](https://s.y8o.de/xiaohuojian) | ✅ |
+| **Quantumult X** | 功能全面的网络工具，支持多种代理协议和数据分析，适合高级用户。 | Shadowsocks、V2Ray、Trojan | [购买链接](https://s.y8o.de/qx) | ✅ |
+| **Stash** | 支持 Clash 内核的客户端软件，提供规则管理和多协议支持。 | Shadowsocks、V2Ray、Trojan、Clash、Hysteria | [购买链接](https://s.y8o.de/stash) | ✅ |
 | **Karing** | 基于 sing-box 开发的简单而强大的代理工具，兼容多种协议和订阅链接。 | Shadowsocks、ShadowsocksR、VMess、VLESS、Trojan、TUIC、Socks、HTTP、Hysteria、Hysteria2、WireGuard | [GitHub Releases](https://github.com/koroshkorosh1/Karing/releases) | ✅ |
 | **Hiddify** | 基于 sing-box 的多平台自动代理客户端，支持多种协议，界面友好。 | VLESS、VMess、Trojan、Shadowsocks、Reality、V2Ray、Hysteria2、TUIC、SSH、ShadowTLS | [App Store](https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532) | ✅ |
 
@@ -63,7 +63,8 @@
 | **FlClash** | 基于 ClashMeta（Mihomo）核心的多平台代理客户端，采用 Material You 设计，简单易用。 | Shadowsocks、VMess、Trojan、VLESS、Clash | [GitHub Releases](https://github.com/chen08209/FlClash/releases) | ✅ |
 | **Karing** | 基于 sing-box 开发的简单而强大的代理工具，兼容多种协议和订阅链接。 | Shadowsocks、ShadowsocksR、VMess、VLESS、Trojan、TUIC、Socks、HTTP、Hysteria、Hysteria2、WireGuard | [GitHub Releases](https://github.com/koroshkorosh1/Karing/releases) | ✅ |
 | **Hiddify** | 基于 sing-box 的多平台自动代理客户端，支持多种协议，界面友好。 | VLESS、VMess、Trojan、Shadowsocks、Reality、V2Ray、Hysteria2、TUIC、SSH、ShadowTLS | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) | ✅ |
-
+| **Surge** | 专注于高性能和调试功能，支持多种现代协议 | Shadowsocks、Trojan、VMess、Snell（V3/V4）、TUIC、Hysteria 2、WireGuard、SOCKS5、HTTP/HTTPS | [($49.99)购买链接](http://nssurge.com/) | ✅ |
+| **Stash** | 基于 sing-box 的高级客户端，支持广泛的协议，包括 VLESS 和 SSH，适合需要多协议支持和高级功能的用户 | Shadowsocks、Shadowsocks2022、ShadowsocksR、VMess、VLESS、Trojan、Snell、TUIC、Hysteria、Hysteria 2、WireGuard、SSH、SOCKS5、HTTP/HTTPS、Juicity | [($48终身)购买链接](https://stash.ws) | ✅ |
 ---
 
 ## 🐧 Linux 客户端
