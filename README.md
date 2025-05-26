@@ -68,14 +68,13 @@
     * 【V2RayN】https://github.com/2dust/v2rayN/releases
     * 【Clash Verge Rev】https://github.com/clash-verge-rev/clash-verge-rev
     * 【FlClash】https://github.com/chen08209/FlClash
-    * 【Nekoray】https://github.com/MatsuriDayo/nekoray
     * 【Netch】https://github.com/netchx/netch/releases (游戏用）
     * 【SStap】https://github.com/githello123/sstap (游戏用)
 
   * MAC
     * 【Clash X】https://github.com/yichengchen/clashX/releases（推荐）
     * 【FlClash】https://github.com/chen08209/FlClash
-    * 【Hiddify-Next】https://github.com/hiddify/hiddify-next/
+    * 【Hiddify】https://github.com/hiddify/hiddify-app
     * 【Surge for Mac($49.99)】http://nssurge.com/
     * 【Stash($48 终身)】: https://stash.ws
 
