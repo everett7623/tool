@@ -1,6 +1,11 @@
-[![Hiddify教程 ︱简易使用指南说明-全平台替代Clash](https://tse1.mm.bing.net/th?id=OIP.ykWeALJIPSXrRVIFQU-xoQHaFj\&pid=Api)](https://iheikeji.com/bgfw/tools/hiddify%E6%95%99%E7%A8%8B.html)
+以下是2025年最新、最全的跨平台梯子工具和翻墙客户端推荐，涵盖 Windows、macOS、Android、iOS 和 Linux 系统。这些工具支持多种协议，适用于科学上网、翻墙、代理连接等需求。
 
-根据您的要求，我已检查并补充了之前表格中缺失的客户端应用，特别是 Hiddify。以下是更新后的全平台翻墙客户端列表，涵盖了 Windows、macOS、Linux、Android 和 iOS 平台，并标明了各自的支持协议、下载地址及推荐应用。
+请注意，部分客户端需搭配代理服务器使用，若尚未购买节点，可参考我们的机场推荐。
+## 性价比推荐：
+YToo（一线顶级专线机场，34个国家，含多个冷门国家，稳定多年）https://s.y8o.de/ytoo
+FASTLINK（性价比高，多国，BGP，IPLC，Anycast，含冷门，游戏专线，稳定多年）https://s.y8o.de/fastlink
+Mitce（性价比高，月0.6美金100G）：https://s.y8o.de/mitce
+Facmata（部分套餐送Emby）：https://s.y8o.de/fmta
 
 ---
 
