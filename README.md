@@ -14,7 +14,13 @@
   * 美区ID注册教程：https://seedloc.com/1786.html
   * 购买成品美区ID空白号（不建议）： https://s.y8o.de/usid
  
+![image](https://github.com/user-attachments/assets/3c8e231a-33b9-4c45-a223-109814d25773)
+
+ 
 * **社媒工具，请[点击查看](https://github.com/everett7623/foreign-trade-social-media-guide/blob/main/foreign-trade-social-media-apps.md)**
+
+![image](https://github.com/user-attachments/assets/f63f34df-d323-4a45-997e-e8d45b4446e7)
+
 
 * **云主机(新手，外贸建站推荐)：**
   * Cloudways: https://s.y8o.de/cloudways
