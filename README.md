@@ -72,14 +72,12 @@
     * 【SStap】https://github.com/githello123/sstap (游戏用)
 
   * MAC
-    * 【Clash X】https://github.com/yichengchen/clashX/releases（推荐）
     * 【FlClash】https://github.com/chen08209/FlClash
     * 【Hiddify】https://github.com/hiddify/hiddify-app
     * 【Surge for Mac($49.99)】http://nssurge.com/
     * 【Stash($48 终身)】: https://stash.ws
 
   * 通用
-    * 【Wireguard(Android,IOS,WIN,MAC,Linux都支持)】https://www.wireguard.com/install
     * 【Sing-box】https://sing-box.sagernet.org/zh/clients
 
 * **社媒工具下载**
