@@ -64,7 +64,7 @@
 | **Karing** | 基于 sing-box 开发的简单而强大的代理工具，兼容多种协议和订阅链接。 | Shadowsocks、ShadowsocksR、VMess、VLESS、Trojan、TUIC、Socks、HTTP、Hysteria、Hysteria2、WireGuard | [GitHub Releases](https://github.com/KaringX/karing/releases) | ✅ |
 | **Hiddify** | 基于 sing-box 的多平台自动代理客户端，支持多种协议，界面友好。 | VLESS、VMess、Trojan、Shadowsocks、Reality、V2Ray、Hysteria2、TUIC、SSH、ShadowTLS | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) | ✅ |
 | **Surge** | 专注于高性能和调试功能，支持多种现代协议 | Shadowsocks、Trojan、VMess、Snell（V3/V4）、TUIC、Hysteria 2、WireGuard、SOCKS5、HTTP/HTTPS | [($49.99)购买链接](http://nssurge.com/) | ✅ |
-| **Stash** | 基于 sing-box 的高级客户端，支持广泛的协议，包括 VLESS 和 SSH，适合需要多协议支持和高级功能的用户 | Shadowsocks、Shadowsocks2022、ShadowsocksR、VMess、VLESS、Trojan、Snell、TUIC、Hysteria、Hysteria 2、WireGuard、SSH、SOCKS5、HTTP/HTTPS、Juicity | [($48终身)购买链接](https://stash.ws) | ✅ |
+| **Stash** | 基于 sing-box 的高级客户端，支持广泛的协议，包括 VLESS 和 SSH，适合需要多协议支持和高级功能的用户 | Shadowsocks、Shadowsocks2022、ShadowsocksR、VMess、VLESS、Trojan、Snell、TUIC、Hysteria、Hysteria 2、WireGuard、SSH、SOCKS5、HTTP/HTTPS、Juicity | [(£48终身)购买链接](https://stash.ws) | ✅ |
 ---
 
 ## 🐧 Linux 客户端
