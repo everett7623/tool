@@ -6,7 +6,7 @@
     * YToo（一线顶级专线机场，34个国家，含多个冷门国家，稳定多年）https://s.y8o.de/ytoo
     * FASTLINK（性价比高，多国，BGP，IPLC，Anycast，含冷门，游戏专线，稳定多年）https://s.y8o.de/fastlink
     * Mitce（性价比高，月0.6美金100G）：https://s.y8o.de/mitce
-    * Facmata（部分套餐送Emby）：https://s.y8o.de/fmta
+    * Facmata：https://s.y8o.de/fmta
   * 其他推荐：
     * 魔戒（流量用户选择，不限时，性价比高，多国，含冷门国家）https://s.y8o.de/mojie
 
