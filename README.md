@@ -23,9 +23,9 @@
 
 
 * **云主机(新手，外贸建站推荐)：**
+  * Hostinger: https://s.y8o.de/hostinger
   * Cloudways: https://s.y8o.de/cloudways
   * Siteground: https://s.y8o.de/siteground
-  * Hostinger: https://s.y8o.de/hostinger
 
 * **VPS：**
   * BWG（搬瓦工）： https://s.y8o.de/bwg
