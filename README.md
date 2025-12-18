@@ -11,7 +11,7 @@
     * 魔戒（流量用户选择，不限时，性价比高，多国，含冷门国家）https://s.y8o.de/mojie
 
 * **梯子工具，请[点击查看](https://github.com/everett7623/tool/blob/main/tizi-tool.md)**
-  * 美区ID注册教程：https://seedloc.com/1786.html
+  * 美区ID注册教程：[https://seedloc.com/1786.html](https://seedloc.com/archives/Register-and-Recharge-US-AppleID)
   * 购买成品美区ID空白号（不建议）： https://s.y8o.de/usid
  
 ![image](https://github.com/user-attachments/assets/3c8e231a-33b9-4c45-a223-109814d25773)
