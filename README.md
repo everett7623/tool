@@ -31,7 +31,6 @@
   * BWG（搬瓦工）： https://s.y8o.de/bwg
   * DMIT（大妈）： https://s.y8o.de/dmit
   * Vmiss (加拿大华人商家，机器线路都不错，老板好): https://s.y8o.de/vmiss
-  * Faconhost（新商家，延迟稳定性不错）: https://s.y8o.de/faconhost
   * BageVM（流媒体解锁好）:  https://s.y8o.de/bagevm
   * Zgo（流媒体解锁好）: https://s.y8o.de/zgovps
   * Racknerd（性价比）:  https://s.y8o.de/racknerd
