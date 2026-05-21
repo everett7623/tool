@@ -14,7 +14,7 @@
 
 ### 代理与账号工具
 
-* **代理工具大全**：[GitHub 整理文档](https://github.com/everett7623/tool/blob/main/tizi-tool.md)
+* **代理工具大全**：[代理客户端推荐](https://vpsknow.com/proxy-tools))
 * **美区 Apple ID**：[图文注册教程](https://seedloc.com/archives/Register-and-Recharge-US-AppleID) | [成品空白号购买（不建议）](https://s.y8o.de/usid)
 
 ### 外贸社媒工具
