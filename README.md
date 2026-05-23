@@ -5,8 +5,10 @@
 | 机场名称 | 核心特点 | 直达链接 |
 | --- | --- | --- |
 | **MESL** | 一线顶级专线，极度低调，多国家节点覆盖 | [前往官网](https://s.y8o.de/mesl) |
-| **FASTLINK** | BGP / IPLC / Anycast 游戏专线，多年稳定 | [前往官网](https://s.y8o.de/fastlink) |
+| **FASTLINK【可能维护中】** | BGP / IPLC / Anycast 游戏专线，多年稳定 | [前往官网](https://s.y8o.de/fastlink) |
 | **魔戒** | 流量计费（不限时），高性价比，含冷门国家节点 | [前往官网](https://s.y8o.de/mojie) |
+
+**[更多机场推荐](https://vpsknow.com/airport-recommendations)**
 
 ---
 
