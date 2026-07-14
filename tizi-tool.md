@@ -6,11 +6,9 @@
 
 ## 性价比推荐：
 
-[YToo（一线顶级专线机场，34个国家，含多个冷门国家，稳定多年）](https://s.y8o.de/ytoo)
+[YToo（一线顶级专线机场，34个国家，含多个冷门国家，稳定多年）](https://go.uukk.de/ytoo)
 
-[FASTLINK（性价比高，多国，BGP，IPLC，Anycast，含冷门，游戏专线，稳定多年）](https://s.y8o.de/fastlink)
-
-[Mitce（性价比高，月0.6美金100G）](https://s.y8o.de/mitce)
+[FASTLINK（性价比高，多国，BGP，IPLC，Anycast，含冷门，游戏专线，稳定多年）](https://go.uukk.de/fastlink)
 
 ---
 
